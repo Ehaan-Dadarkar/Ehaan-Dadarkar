@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="64" height="64" viewBox="0 0 64 64"
+     fill="none">
+  <title>Ehaan Dadarkar — Personal Mark</title>
+  <desc>Minimal geometric E/D-inspired architectural signal mark.</desc>
+
+  <g stroke="#000000"
+     stroke-width="3"
+     stroke-linecap="square"
+     stroke-linejoin="miter">
+    <!-- E structure -->
+    <path d="M14 16H38" />
+    <path d="M14 16V48" />
+    <path d="M14 32H34" />
+    <path d="M14 48H38" />
+
+    <!-- D structure -->
+    <path d="M38 16A16 16 0 0 1 38 48" />
+
+    <!-- Signal path -->
+    <path d="M34 32H44" />
+  </g>
+
+  <!-- Single signal node -->
+  <circle cx="44" cy="32" r="3.5" fill="#4A6950"/>
+</svg>
