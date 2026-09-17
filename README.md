@@ -6,10 +6,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="./assets/images/signal-divider.svg" alt="—" width="100%" />
-</p>
-
 # Ehaan Dadarkar
 
 **Software Developer · AI Engineer**
@@ -23,10 +19,7 @@ I build full-stack products, AI systems, and automation.
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2400&pause=900&color=000000&background=FFFFFF00&center=true&vCenter=true&width=520&height=28&lines=AI+SYSTEMS;FULL-STACK+PRODUCTS;AUTOMATION;DEVELOPER+TOOLS"
-    alt="AI Systems · Full-Stack Products · Automation · Developer Tools"
-  />
+  <img src="./assets/images/signal-divider.svg" alt="—" width="100%" />
 </p>
 
 <p align="center">
@@ -39,7 +32,7 @@ I build full-stack products, AI systems, and automation.
 <p align="center">
   <img
     src="./assets/images/skills-marquee-b.svg"
-    alt="Technical skills — Python, FastAPI, PostgreSQL, Supabase, MongoDB, MySQL, Docker, Git, AI APIs, Automation"
+    alt="Technical skills — Python, FastAPI, PostgreSQL, Supabase, MongoDB, MySQL, OpenAI API, AI Integration, AI Automation, Docker, Git, GitHub, Vercel"
     width="100%"
   />
 </p>
@@ -55,10 +48,6 @@ Engineering is how I think. Shipping is how I learn.
 I build software around real problems — from full-stack products and AI-powered systems to automation and developer tooling. I care about turning ideas into systems that are useful, maintainable, and actually shipped.
 
 My work lives at the intersection of product engineering, AI systems, and developer tooling — focused on building things that are clear in intent, solid in execution, and ready for real use.
-
-<p align="center">
-  <img src="./assets/images/signal-divider.svg" alt="—" width="100%" />
-</p>
 
 `02 — CAPABILITY`
 
@@ -202,20 +191,7 @@ Git · GitHub · Vercel · Docker.
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Ehaan-Dadarkar&theme=light&background=F9F9F9&stroke=E0E0E0&ring=2F2F2F&fire=2F2F2F&currStreakNum=000000&sideNums=4C4546&currStreakLabel=666666&sideLabels=666666&dates=6B6B6B&border=E0E0E0"
-    alt="Current streak, longest streak, and total contributions for Ehaan Dadarkar"
-  />
-</p>
-
-<p align="center">
-  <sub>Current streak · Longest streak · Total contributions — updated daily.</sub>
-</p>
-
-<p align="center">
-  <a href="https://ed-port.vercel.app/"><img src="./assets/images/tag-portfolio.svg" alt="Portfolio" height="24" /></a> &nbsp;
-  <a href="https://github.com/Ehaan-Dadarkar"><img src="./assets/images/tag-github.svg" alt="GitHub" height="24" /></a> &nbsp;
-  <a href="https://linkedin.com/in/ehaan-dadarkar-1694a8351"><img src="./assets/images/tag-linkedin.svg" alt="LinkedIn" height="24" /></a>
+  <sub>Contribution graph — updated daily. Native GitHub activity reflects real shipping cadence.</sub>
 </p>
 
 <p align="center">

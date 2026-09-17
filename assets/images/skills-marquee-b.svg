@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="80" viewBox="0 0 1600 80" role="img" aria-label="Technical skills ticker">
-  <title>Ehaan Dadarkar — Skills Ticker B</title>
-  <desc>Monochrome editorial ticker: Python, FastAPI, PostgreSQL, Supabase, MongoDB, MySQL, Docker, Git, AI APIs, Automation — seamless loop right to left.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="80" viewBox="0 0 1600 80" role="img" aria-label="Backend, data, AI and infrastructure ticker">
+  <title>Ehaan Dadarkar — Skills Ticker B — Backend / Data / AI / Infra</title>
+  <desc>Backend, data, AI and infrastructure layer: Python, FastAPI, PostgreSQL, Supabase, MongoDB, MySQL, OpenAI API, AI Integration, AI Automation, Docker, Git, GitHub, Vercel — seamless loop right to left.</desc>
   <rect width="1600" height="80" fill="#F9F9F9"/>
   <line x1="0" y1="0.5" x2="1600" y2="0.5" stroke="#E0E0E0" stroke-width="1"/>
   <line x1="0" y1="79.5" x2="1600" y2="79.5" stroke="#E0E0E0" stroke-width="1"/>
   <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14.5" font-weight="400" letter-spacing="1.3" fill="#4C4546">
     <g>
-      <text x="0" y="50">PYTHON  ·  FASTAPI  ·  POSTGRESQL  ·  SUPABASE  ·  MONGODB  ·  MYSQL  ·  DOCKER  ·  GIT  ·  AI APIS  ·  AUTOMATION</text>
-      <text x="1190" y="50">PYTHON  ·  FASTAPI  ·  POSTGRESQL  ·  SUPABASE  ·  MONGODB  ·  MYSQL  ·  DOCKER  ·  GIT  ·  AI APIS  ·  AUTOMATION</text>
-      <text x="2380" y="50">PYTHON  ·  FASTAPI  ·  POSTGRESQL  ·  SUPABASE  ·  MONGODB  ·  MYSQL  ·  DOCKER  ·  GIT  ·  AI APIS  ·  AUTOMATION</text>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1190 0" dur="38s" repeatCount="indefinite" calcMode="linear"/>
+      <text x="0" y="50">PYTHON  ·  FASTAPI  ·  POSTGRESQL  ·  SUPABASE  ·  MONGODB  ·  MYSQL  ·  OPENAI API  ·  AI INTEGRATION  ·  AI AUTOMATION  ·  DOCKER  ·  GIT  ·  GITHUB  ·  VERCEL</text>
+      <text x="1660" y="50">PYTHON  ·  FASTAPI  ·  POSTGRESQL  ·  SUPABASE  ·  MONGODB  ·  MYSQL  ·  OPENAI API  ·  AI INTEGRATION  ·  AI AUTOMATION  ·  DOCKER  ·  GIT  ·  GITHUB  ·  VERCEL</text>
+      <text x="3320" y="50">PYTHON  ·  FASTAPI  ·  POSTGRESQL  ·  SUPABASE  ·  MONGODB  ·  MYSQL  ·  OPENAI API  ·  AI INTEGRATION  ·  AI AUTOMATION  ·  DOCKER  ·  GIT  ·  GITHUB  ·  VERCEL</text>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1660 0" dur="38s" repeatCount="indefinite" calcMode="linear"/>
     </g>
   </g>
 </svg>
