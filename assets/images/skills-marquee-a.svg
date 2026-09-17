@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="80" viewBox="0 0 1600 80" role="img" aria-label="Technical skills ticker">
+  <title>Ehaan Dadarkar — Skills Ticker A</title>
+  <desc>Monochrome editorial ticker: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, Node.js, Express — seamless loop left to right.</desc>
+  <rect width="1600" height="80" fill="#F9F9F9"/>
+  <!-- thin editorial rules -->
+  <line x1="0" y1="0.5" x2="1600" y2="0.5" stroke="#E0E0E0" stroke-width="1"/>
+  <line x1="0" y1="79.5" x2="1600" y2="79.5" stroke="#E0E0E0" stroke-width="1"/>
+
+  <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="1.6" fill="#000000">
+    <!-- animated group: duplicated for seamless loop -->
+    <g>
+      <!-- first copy -->
+      <text x="0" y="48">REACT  ·  NEXT.JS  ·  TYPESCRIPT  ·  JAVASCRIPT  ·  TAILWIND CSS  ·  VITE  ·  NODE.JS  ·  EXPRESS  ·  REACT  ·  NEXT.JS  ·  TYPESCRIPT  ·  JAVASCRIPT  ·  TAILWIND CSS  ·  VITE  ·  NODE.JS  ·  EXPRESS</text>
+      <!-- second copy offset -->
+      <text x="960" y="48">REACT  ·  NEXT.JS  ·  TYPESCRIPT  ·  JAVASCRIPT  ·  TAILWIND CSS  ·  VITE  ·  NODE.JS  ·  EXPRESS  ·  REACT  ·  NEXT.JS  ·  TYPESCRIPT  ·  JAVASCRIPT  ·  TAILWIND CSS  ·  VITE  ·  NODE.JS  ·  EXPRESS</text>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="-960 0"
+        to="0 0"
+        dur="32s"
+        repeatCount="indefinite"
+        calcMode="linear"/>
+    </g>
+  </g>
+</svg>
