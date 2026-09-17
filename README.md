@@ -47,38 +47,85 @@ Tools and infrastructure that improve how software gets built.
 ## Selected Work
 
 ### MentorAI
+
+<p align="center">
+  <img
+    src="./assets/images/projects/mentorai.png"
+    alt="MentorAI — AI Learning Platform"
+    width="100%"
+  />
+</p>
+
 **AI Learning Platform**
 
 AI Learning Platform for Active Recall & Adaptive Learning.
 
-<a href="https://mentorai-prod.vercel.app/">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Ehaan-Dadarkar/MentorAI">Repository</a>
+<p>
+  <a href="https://github.com/Ehaan-Dadarkar/MentorAI">Repository</a> &nbsp;·&nbsp;
+  <a href="https://mentorai-prod.vercel.app/">Live Demo</a>
+</p>
 
 ---
 
 ### DH Farms
+
+<p align="center">
+  <img
+    src="./assets/images/projects/dhfarms.png"
+    alt="DH Farms — Commerce Platform"
+    width="100%"
+  />
+</p>
+
 **Commerce Platform**
 
 Modern Agricultural E-Commerce Platform.
 
-<a href="https://dhfarms.vercel.app/">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Ehaan-Dadarkar/DHFarms">Repository</a>
+<p>
+  <a href="https://github.com/Ehaan-Dadarkar/DHFarms">Repository</a> &nbsp;·&nbsp;
+  <a href="https://dhfarms.vercel.app/">Live Demo</a>
+</p>
 
 ---
 
 ### Text2Dataset
+
+<p align="center">
+  <img
+    src="./assets/images/projects/text2dataset.png"
+    alt="Text2Dataset — Document Intelligence Platform"
+    width="100%"
+  />
+</p>
+
 **Document Intelligence**
 
 AI Document Intelligence & Dataset Extraction Platform.
 
-<a href="https://github.com/Ehaan-Dadarkar/Text2Dataset">Repository</a>
+<p>
+  <a href="https://github.com/Ehaan-Dadarkar/Text2Dataset">Repository</a>
+</p>
 
 ---
 
 ### VeriFace
+
+<p align="center">
+  <img
+    src="./assets/images/projects/veriface.png"
+    alt="VeriFace — Computer Vision Attendance System"
+    width="100%"
+  />
+</p>
+
 **Computer Vision**
 
 Browser-Based Facial Attendance System.
 
-<a href="https://veriface-prod.vercel.app/">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Ehaan-Dadarkar/Veriface">Repository</a>
+<p>
+  <a href="https://github.com/Ehaan-Dadarkar/Veriface">Repository</a> &nbsp;·&nbsp;
+  <a href="https://veriface-prod.vercel.app/">Live Demo</a>
+</p>
 
 ---
 
