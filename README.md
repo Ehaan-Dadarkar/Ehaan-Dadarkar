@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/images/profile-header.png"
+    src="./assets/images/profile-header.webp"
     alt="Ehaan Dadarkar — Software Developer"
     width="100%"
   />
@@ -75,7 +75,7 @@ Tools and infrastructure that improve how software gets built.
 
 <p align="center">
   <img
-    src="./assets/images/projects/mentorai.png"
+    src="./assets/images/projects/mentorai.webp"
     alt="MentorAI — AI Learning Platform"
     width="100%"
   />
@@ -94,7 +94,7 @@ AI Learning Platform for Active Recall and Adaptive Learning — built as an edi
 
 <p align="center">
   <img
-    src="./assets/images/projects/dhfarms.png"
+    src="./assets/images/projects/dhfarms.webp"
     alt="DH Farms — Commerce Platform"
     width="100%"
   />
@@ -113,7 +113,7 @@ Modern Agricultural E-Commerce Platform — warm, premium commerce with organic 
 
 <p align="center">
   <img
-    src="./assets/images/projects/text2dataset.png"
+    src="./assets/images/projects/text2dataset.webp"
     alt="Text2Dataset — Document Intelligence Platform"
     width="100%"
   />
@@ -131,7 +131,7 @@ AI Document Intelligence and Dataset Extraction Platform — turning unstructure
 
 <p align="center">
   <img
-    src="./assets/images/projects/veriface.png"
+    src="./assets/images/projects/veriface.webp"
     alt="VeriFace — Computer Vision Attendance System"
     width="100%"
   />
@@ -198,13 +198,7 @@ Git · GitHub · Vercel · Docker.
   <img src="./assets/images/signal-divider.svg" alt="—" width="100%" />
 </p>
 
-<p align="center">
-  <img
-    src="./assets/images/ehaan-mark.svg"
-    width="28"
-    alt="Ehaan Dadarkar mark"
-  />
-</p>
+
 <p align="center">
   <sub>Built with intent — less, but intentional.</sub>
 </p>
