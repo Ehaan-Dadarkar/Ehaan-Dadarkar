@@ -1,204 +1,100 @@
 <p align="center">
-  <img
-    src="./assets/images/profile-header.webp"
-    alt="Ehaan Dadarkar — Software Developer"
-    width="100%"
-  />
+  <img src="./assets/header.svg" width="100%" alt="Ehaan Dadarkar — Full-Stack AI Engineer" />
 </p>
 
-# Ehaan Dadarkar
+<img align="right" src="./assets/gengar.gif" width="180" alt="Gengar" />
 
-**Software Developer · AI Engineer**
+### hi, i'm ehaan
 
-I build full-stack products, AI systems, and automation.
+Full-stack AI engineer. I build **AI agents**, **automation**, and **web apps** — from idea to shipped product.
+
+Navi Mumbai, India<br/>
+Building AI automations for real teams<br/>
+<a href="mailto:dadarkarehaan@gmail.com">dadarkarehaan@gmail.com</a>
+
+<sub>gengar haunts this profile</sub>
+
+<br clear="both" />
 
 <p align="center">
-  <a href="https://ed-port.vercel.app/"><img src="./assets/images/tag-portfolio.svg" alt="Portfolio" height="28" /></a> &nbsp;
-  <a href="https://github.com/Ehaan-Dadarkar"><img src="./assets/images/tag-github.svg" alt="GitHub" height="28" /></a> &nbsp;
-  <a href="https://linkedin.com/in/ehaan-dadarkar-1694a8351"><img src="./assets/images/tag-linkedin.svg" alt="LinkedIn" height="28" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Ehaan-Dadarkar&color=8b7fd4&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://www.ehaan.is-a.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-ehaan.is--a.dev-8b7fd4?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ehaan-dadarkar-1694a8351/"><img src="https://img.shields.io/badge/LINKEDIN-ehaan--dadarkar-8b7fd4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="./assets/images/signal-divider.svg" alt="—" width="100%" />
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
+
+## // stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ehaan-Dadarkar&show_icons=true&bg_color=17141f&title_color=a99ce0&text_color=ece9f4&icon_color=8b7fd4&border_color=2e2a3d" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehaan-Dadarkar&layout=compact&bg_color=17141f&title_color=a99ce0&text_color=ece9f4&border_color=2e2a3d" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img
-    src="./assets/images/skills-marquee-a.svg"
-    alt="Technical skills — React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite, Node.js, Express"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ehaan-Dadarkar&bg_color=17141f&color=a99ce0&line=8b7fd4&point=d5cdf2&area=true&hide_border=true" width="100%" alt="Contribution graph" />
 </p>
-<p align="center">
-  <img
-    src="./assets/images/skills-marquee-b.svg"
-    alt="Technical skills — Python, FastAPI, PostgreSQL, Supabase, MongoDB, MySQL, OpenAI API, AI Integration, AI Automation, Docker, Git, GitHub, Vercel"
-    width="100%"
-  />
-</p>
-
----
-
-`01 — ABOUT`
-
-## About
-
-Engineering is how I think. Shipping is how I learn.
-
-I build software around real problems — from full-stack products and AI-powered systems to automation and developer tooling. I care about turning ideas into systems that are useful, maintainable, and actually shipped.
-
-My work lives at the intersection of product engineering, AI systems, and developer tooling — focused on building things that are clear in intent, solid in execution, and ready for real use.
-
-`02 — CAPABILITY`
-
-## What I Build
-
-**AI Engineering:**
-Integrating AI systems into practical, real-world products.
-
-**Full-Stack Products:**
-Web applications from interface to backend — product thinking from day one.
-
-**Automation:**
-Workflows that reduce friction and scale independently.
-
-**Developer Systems:**
-Tools and infrastructure that improve how software gets built.
-
----
-
-`03 — SELECTED WORK`
-
-## Selected Work
-
-`01 / MENTORAI — AI LEARNING PLATFORM`
 
 <p align="center">
-  <img
-    src="./assets/images/projects/mentorai.webp"
-    alt="MentorAI — AI Learning Platform"
-    width="100%"
-  />
+  <img src="./assets/divider.svg" width="100%" alt="" />
 </p>
 
-AI Learning Platform for Active Recall and Adaptive Learning — built as an editorial, dark-mode learning environment.
+## // selected work
+
+### MentorAI — AI learning platform
+
+Active recall, adaptive learning, voice. PayPal AI Hackathon entry.
+<a href="https://github.com/Ehaan-Dadarkar/MentorAI-Deployed">repo</a> · <a href="https://mentorai-prod.vercel.app/">live demo</a>
+
+### VeriFace — facial attendance, local-first
+
+Browser facial attendance. No backend, no cloud face API.
+<a href="https://github.com/Ehaan-Dadarkar/Veriface">repo</a> · <a href="https://veriface-prod.vercel.app/">live demo</a>
+
+### ArcDex — AI fitness OS, local-first
+
+Nutrition, workouts, recovery, body progress. Zero backend, your data stays on device.
+<a href="https://arc-dex-prod.vercel.app/">live demo</a>
+
+### Oqera — meeting transcription, on-device
+
+Speaker-aware meeting transcription, desktop app. Tauri + Rust, built for my father.
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</p>
+
+## // open source
+
+**SurfSense** — 3 PRs merged. Open-source contribution, reviewed and shipped upstream. <a href="https://github.com/MODSetter/SurfSense">MODSetter/SurfSense</a>
+
+## // stack
 
 <p>
-  <a href="https://github.com/Ehaan-Dadarkar/MentorAI"><img src="./assets/images/btn-repository.svg" alt="Repository" height="28" /></a> &nbsp;
-  <a href="https://mentorai-prod.vercel.app/"><img src="./assets/images/btn-live-demo.svg" alt="Live Demo" height="28" /></a>
-</p>
-
----
-
-`02 / DH FARMS — COMMERCE PLATFORM`
-
-<p align="center">
-  <img
-    src="./assets/images/projects/dhfarms.webp"
-    alt="DH Farms — Commerce Platform"
-    width="100%"
-  />
-</p>
-
-Modern Agricultural E-Commerce Platform — warm, premium commerce with organic product narratives.
-
-<p>
-  <a href="https://github.com/Ehaan-Dadarkar/DHFarms"><img src="./assets/images/btn-repository.svg" alt="Repository" height="28" /></a> &nbsp;
-  <a href="https://dhfarms.vercel.app/"><img src="./assets/images/btn-live-demo.svg" alt="Live Demo" height="28" /></a>
-</p>
-
----
-
-`03 / TEXT2DATASET — DOCUMENT INTELLIGENCE`
-
-<p align="center">
-  <img
-    src="./assets/images/projects/text2dataset.webp"
-    alt="Text2Dataset — Document Intelligence Platform"
-    width="100%"
-  />
-</p>
-
-AI Document Intelligence and Dataset Extraction Platform — turning unstructured documents into usable datasets.
-
-<p>
-  <a href="https://github.com/Ehaan-Dadarkar/Text2Dataset"><img src="./assets/images/btn-repository.svg" alt="Repository" height="28" /></a>
-</p>
-
----
-
-`04 / VERIFACE — COMPUTER VISION`
-
-<p align="center">
-  <img
-    src="./assets/images/projects/veriface.webp"
-    alt="VeriFace — Computer Vision Attendance System"
-    width="100%"
-  />
-</p>
-
-Browser-based Facial Attendance System — a monochrome biometric system with strong typographic identity.
-
-<p>
-  <a href="https://github.com/Ehaan-Dadarkar/Veriface"><img src="./assets/images/btn-repository.svg" alt="Repository" height="28" /></a> &nbsp;
-  <a href="https://veriface-prod.vercel.app/"><img src="./assets/images/btn-live-demo.svg" alt="Live Demo" height="28" /></a>
+  <img src="https://img.shields.io/badge/TypeScript-8b7fd4?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-8b7fd4?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Python-8b7fd4?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-8b7fd4?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-8b7fd4?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-8b7fd4?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-8b7fd4?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-8b7fd4?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-8b7fd4?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 <p align="center">
-  <img src="./assets/images/signal-divider.svg" alt="—" width="100%" />
+  <img src="./assets/divider.svg" width="100%" alt="" />
 </p>
 
-`04 — FOCUS`
+## // now
 
-## Current Focus
-
-- **01 — AI System Design** · AI-native application development.
-- **02 — Backend Engineering** · Systems and APIs.
-- **03 — Automation** · AI automation and workflows.
-- **04 — Product Engineering** · From idea to shipped product.
-
----
-
-`05 — STACK`
-
-## Technical Stack
-
-**Frontend:**
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · Vite.
-
-**Backend:**
-Node.js · Express · Python · FastAPI.
-
-**Data:**
-PostgreSQL · Supabase · MongoDB · MySQL.
-
-**AI:**
-LLM APIs · AI Integration · AI Automation.
-
-**Infrastructure:**
-Git · GitHub · Vercel · Docker.
+- Building **AI automations** — applicant screening, CRM pipelines, certificates, reporting.
+- Levelling up **computer vision** and **real-time ML**.
+- Open to remote internships and freelance AI work.
 
 <p align="center">
-  <img src="./assets/images/signal-divider.svg" alt="—" width="100%" />
-</p>
-
-`06 — ACTIVITY`
-
-## Contribution
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2F2F2F/Ehaan-Dadarkar" alt="Contribution graph — Ehaan Dadarkar" width="100%" />
-</p>
-
-<p align="center">
-  <sub>Contribution graph — updated daily. Native GitHub activity reflects real shipping cadence.</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/images/signal-divider.svg" alt="—" width="100%" />
-</p>
-
-
-<p align="center">
-  <sub>Built with intent — less, but intentional.</sub>
+  <img src="./assets/gengar-back.gif" width="72" alt="Gengar" />
+  <br/><sub>built with intent — less, but intentional.</sub>
 </p>

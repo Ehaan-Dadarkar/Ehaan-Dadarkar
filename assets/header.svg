@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17141f"/>
+      <stop offset="1" stop-color="#12101a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.5">
+      <stop offset="0" stop-color="#8b7fd4" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#8b7fd4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <rect width="1280" height="300" fill="url(#glow)"/>
+  <text x="64" y="148" font-family="monospace" font-size="72" font-weight="bold" fill="#ece9f4" letter-spacing="1">Ehaan Dadarkar</text>
+  <text x="64" y="196" font-family="monospace" font-size="24" font-weight="bold" fill="#a99ce0" letter-spacing="5">FULL-STACK AI ENGINEER</text>
+  <text x="64" y="232" font-family="monospace" font-size="17" fill="#9a93b8" letter-spacing="3">AI AGENTS &#183; AUTOMATION &#183; WEB APPS</text>
+  <rect x="64" y="268" width="48" height="3" fill="#8b7fd4"/>
+</svg>
